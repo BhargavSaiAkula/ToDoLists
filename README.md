@@ -1,33 +1,25 @@
-# ToDoLists
-Project: Todo List Application
+<h1 align="center">Todo React App  📝</h1>  
+<p align="center">
+  🖊️ A simple Todo App built using <a href="https://reactjs.org/">React</a> and <a href="https://mantine.dev/">Mantine UI</a>
+</p>
 
-Description:
-Designed and implemented a feature-rich Todo List application with a stack comprising React, Node.js, Express, MongoDB, and Redux. The project focused on providing a seamless user experience with functionalities such as All Todos, Active Todos, and Done Todos.
+## This is a super simple Todo App built using React.js and styled using Mantine UI.
 
-Key Contributions:
+You can view a live demo of the project here: https://javascriptbear.github.io/todo_react_app/
+Or, you can watch this video demo
 
-1)Full-Stack Development:
+### **(Most likely outdated, its reccomeneded you check out the live demo!)**
 
-Developed the front-end using React, creating an intuitive and responsive user interface for managing todos.
-Implemented Redux to manage the application's state, enabling efficient data flow and centralized state management.
-2)Back-End Integration:
+https://user-images.githubusercontent.com/109053279/178185429-8de77574-cc2f-429f-8c4e-b1ed9f290894.mp4
 
-Designed and implemented the server-side using Node.js and Express, creating RESTful APIs for seamless communication between the front-end and back-end.
-Integrated MongoDB as the database to store and retrieve todo data, ensuring data consistency and scalability.
-3)Redux Functionality:
+## 😃 Features:
 
-Implemented Redux actions, reducers, and store to manage the application state centrally.
-Created functions for All Todos, Active Todos, and Done Todos, allowing users to filter and view todos based on their status.
-4)User Interface Enhancement:
+- ➕ Add todos
+- 🗑️ Delete todos
+- ⏸ Save todos to Local Storage when the state changes
+- ▶️ Load the todos from Local Storage when the site is loaded again
+- 🌙 Light \ dark mode toggle
 
-Incorporated dynamic rendering to display todos based on their status (active, done, or all) without reloading the entire page.
-Enabled user interaction for adding, updating, and deleting todos with seamless updates to the Redux store.
-5)Testing and Deployment:
-
-Conducted thorough testing, including unit testing and end-to-end testing, to ensure the application's robustness and reliability.
-Deployed the application on [Your Preferred Hosting Platform], ensuring accessibility to users.
-Technologies Used:
-
-Front-End: React, Redux
-Back-End: Node.js, Express
-Database: MongoDB
+<p align="center">
+  ❤️ Feel free to create issues and contributions for features or bugs to this project.
+</p>
